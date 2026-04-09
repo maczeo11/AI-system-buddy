@@ -12,7 +12,7 @@ TechBot is a terminal-based AI assistant designed for IT troubleshooting, system
 ## 📁 Project Structure
 ```text
 .
-├── .env                # Environment variables (API Keys) - DO NOT COMMIT
+├── .env                # Environment variables (API Keys) 
 ├── .gitignore          # Ignored files
 ├── requirements.txt    # Python dependencies
 ├── config.py           # Configuration and environment setup
